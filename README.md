@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @CodeMasterCyro
-- 👀 I’m interested in ... Lua Html and css fivem 3d modeling and texturing
-- 🌱 I’m currently learning ... Luas
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... cyro#0420 on discord
+Moro oon @CodeMasterCyro
+Harjoittelen kokoajan lisää luaa
+ Tavoita minut ... cyro#0420 on discordissa tai dsc.gg/scriptit
+![Visitor Count](https://profile-counter.glitch.me/{Cyro}/count.svg)
 
 <!---
 CodeMasterCyro/CodeMasterCyro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
