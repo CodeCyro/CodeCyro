@@ -1,5 +1,6 @@
+# Hello, Mates! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ``Lua, Css, html``
- Tavoita minut ... cyro#0420 discordissa tai dsc.gg/scriptit
+ Hmu ... cyro#0420 on discord  or dsc.gg/scriptit
 ![Visitor Count](https://profile-counter.glitch.me/{Cyro}/count.svg)
 
 
