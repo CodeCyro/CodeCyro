@@ -1,6 +1,5 @@
-# Hello, Mates! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Moro! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ``Lua, Css, html``
- Hmu ... cyro#0420 on discord  or dsc.gg/scriptit
 ![Visitor Count](https://profile-counter.glitch.me/{Cyro}/count.svg)
 
 
