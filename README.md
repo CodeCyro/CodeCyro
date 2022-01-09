@@ -1,5 +1,6 @@
 # Moro! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ``Lua, Css, html``
+En julkase tänne paljoo:)
 ![Visitor Count](https://profile-counter.glitch.me/{Cyro}/count.svg)
 
 
