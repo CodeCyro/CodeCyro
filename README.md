@@ -4,6 +4,7 @@
 
 ```
 Learning c#
+Lua
 ```
 ![Visitor Count](https://profile-counter.glitch.me/{Cyro}/count.svg)
 
