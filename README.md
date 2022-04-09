@@ -6,6 +6,8 @@
 Learning c#
 c++
 Lua
+html
+css
 ```
 ![Visitor Count](https://profile-counter.glitch.me/{Cyro}/count.svg)
 
