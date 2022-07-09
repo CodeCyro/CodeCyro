@@ -9,6 +9,8 @@ Java
 Lua
 html
 css
+Kotlin
+Rust
 ```
 ![Visitor Count](https://profile-counter.glitch.me/{Cyro}/count.svg)
 
