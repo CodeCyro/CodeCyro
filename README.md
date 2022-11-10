@@ -3,7 +3,7 @@
 
 
 ```
-Learning c#
+c#
 c++
 Java
 Lua
@@ -11,6 +11,8 @@ html
 css
 Kotlin
 Rust
+
+Learning reverse engineering
 ```
 ![Visitor Count](https://profile-counter.glitch.me/{Cyro}/count.svg)
 
