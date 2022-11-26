@@ -1,19 +1,23 @@
 
 ![c00dia](https://cdn.discordapp.com/emojis/807712814889435166.gif?size=64&quality=lossless)
 
+Currently doing alot of project's with lua, cpp and Js. 
+
 
 ```
-15yr
+Finnish 15yr old self taught student
 
 
 c#
 c++
 Java
 Lua
-html
+Html
 css
 Kotlin
 Rust
+Javascript
+
 
 Learning reverse engineering
 ```
@@ -24,7 +28,3 @@ Learning reverse engineering
 
 <img align="right" alt="Cyros's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeCyro&theme=swift&bg_colorffff&border_color=1C00ff00&icon_color=000000show_icons=false" />
 
-<!---
-CodeCyro/CodeCyro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
