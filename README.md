@@ -8,15 +8,16 @@ Currently doing alot of project's with lua, cpp and Js.
 Finnish 15yr old self taught student
 
 
-c#
-c++
-Java
-Lua
-Html
-css
-Kotlin
-Rust
-Javascript
+c# 
+c++ 
+Java 
+Lua 
+Html 
+css  
+Kotlin 
+Rust 
+Javascript 
+Python (dont like at all but few times used for projects)
 
 
 Learning reverse engineering
