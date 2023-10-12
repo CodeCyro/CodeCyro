@@ -2,7 +2,7 @@
 ![c00dia](https://cdn.discordapp.com/emojis/807712814889435166.gif?size=64&quality=lossless)
 
 ```
-Finnish 15yr old self taught student
+Finnish 16yr old self taught student
 
 Learning reverse engineering
 ```
