@@ -5,6 +5,10 @@
 Finnish 16yr old self taught student
 
 Learning reverse engineering
+
+i like to use tools like ida, ghidra, x64dbg
+Themida, VMProtect 
+
 ```
 
 Currently doing alot of project's with lua, cpp, Rust and Js. 
